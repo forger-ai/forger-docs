@@ -28,14 +28,14 @@ function parseScalar(value) {
 
 export function parseFrontmatter(filePath) {
   const raw = readFileSync(filePath, 'utf8');
-  const match = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (!match) {
     throw new Error(`${filePath} is missing frontmatter`);
   }
 
   const data = {};
   let currentArrayKey = null;
-  for (const line of match[1].split('\n')) {
+  for (const line of match[1].split(/\r?\n/)) {
     if (!line.trim()) continue;
     const arrayItem = line.match(/^\s*-\s+(.+)$/);
     if (arrayItem && currentArrayKey) {
