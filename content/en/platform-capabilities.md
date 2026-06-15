@@ -3,7 +3,7 @@ title: "Platform Capabilities"
 description: "Memory, files, secrets, automations, backups, sync, social, sharing, remote access, and diagnostics."
 section: "Platform Capabilities"
 order: 8
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "desktop/AGENTS.md"

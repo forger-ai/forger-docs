@@ -3,7 +3,7 @@ title: "Arquitectura"
 description: "El mapa del sistema Forger, límites de confianza, flujo de datos y ownership por capa."
 section: "Arquitectura"
 order: 2
-status: "beta"
+status: "experimental"
 owner: "forger-docs"
 sources:
   - "AGENTS.md"

@@ -3,7 +3,7 @@ title: "Security and Privacy"
 description: "How Forger protects local data with app isolation, explicit file access, memory safeguards, permission boundaries, remote access controls, and AI provider limits."
 section: "Security and Privacy"
 order: 9
-status: "beta"
+status: "experimental"
 owner: "workspace"
 sources:
   - "AGENTS.md"

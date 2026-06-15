@@ -31,5 +31,5 @@ The export command only writes to the path passed with `--out`; it does not know
 - Every English document must have a matching Spanish document with the same slug.
 - Every document must include frontmatter with `title`, `description`, `section`, `order`, `status`, `owner`, and `sources`.
 - Capability claims must be grounded in current repo evidence.
-- Mark beta, partial, or planned capabilities explicitly.
+- Mark experimental, partial, or planned capabilities explicitly.
 - Keep internal details useful for technical readers, but do not present internal commands as normal end-user steps.

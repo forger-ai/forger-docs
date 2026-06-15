@@ -3,7 +3,7 @@ title: "Agents and AI Tasks"
 description: "Forger chat, app chat, one-shot tasks, app agents, permissions, progress, and Coding CLI providers."
 section: "Agents and AI Tasks"
 order: 6
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "desktop/AGENTS.md"

@@ -3,7 +3,7 @@ title: "Architecture"
 description: "The Forger system map, trust boundaries, data flow, and ownership layers."
 section: "Architecture"
 order: 2
-status: "beta"
+status: "experimental"
 owner: "forger-docs"
 sources:
   - "AGENTS.md"
