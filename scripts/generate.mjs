@@ -29,7 +29,7 @@ export interface ForgerDocEntry {
   description: string;
   section: string;
   order: number;
-  status: 'available' | 'beta' | 'partial' | 'planned';
+  status: 'available' | 'experimental' | 'partial' | 'planned';
   owner: string;
   sources: string[];
   headings: { level: number; title: string; id: string }[];

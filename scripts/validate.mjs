@@ -14,7 +14,7 @@ for (const lang of languages) {
     if (!Array.isArray(doc.sources) || doc.sources.length === 0) {
       errors.push(`${doc.path} must list at least one source`);
     }
-    if (!['available', 'beta', 'partial', 'planned'].includes(doc.status)) {
+    if (!['available', 'experimental', 'partial', 'planned'].includes(doc.status)) {
       errors.push(`${doc.path} has invalid status "${doc.status}"`);
     }
     for (const link of doc.body.matchAll(/\]\(([^)]+)\)/g)) {

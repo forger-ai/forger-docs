@@ -3,7 +3,7 @@ title: "App Installation and Runtime"
 description: "How Forger helps people install, open, update, and recover local apps."
 section: "App Installation and Runtime"
 order: 5
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "AGENTS.md"

@@ -3,7 +3,7 @@ title: "Agentes y tareas de IA"
 description: "Chat de Forger, chat de app, tareas de una sola ejecución, agentes de app, permisos, progreso y proveedores Coding CLI."
 section: "Agentes y tareas de IA"
 order: 6
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "desktop/AGENTS.md"

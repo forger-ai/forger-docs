@@ -1,9 +1,9 @@
 ---
 title: "Visión general"
-description: "Forger como ecosistema open-core para apps locales, Desktop, Cloud y límites actuales de la beta."
+description: "Forger como ecosistema open-core para apps locales, Desktop, Cloud y límites experimentales actuales."
 section: "Visión general"
 order: 1
-status: "beta"
+status: "experimental"
 owner: "forger"
 sources:
   - "AGENTS.md"
@@ -37,8 +37,8 @@ Forger puede crear y adaptar apps locales, instalar apps curadas, ejecutar servi
 
 Forger también soporta flujos de publicación y de compartir apps cuando una app está lista para moverse más allá del computador de una persona. Las apps compartidas siguen siendo código real, con metadata explícita, capacidades declaradas y versiones instalables.
 
-## Qué sigue en beta
+## Qué sigue experimental
 
-Forger es actualmente software beta. La creación de apps, adaptación de apps, configuración de proveedores, instalación desde catálogo, publicación, funciones sociales, almacenamiento, respaldos y administración remota están disponibles con distintos niveles de completitud según la app, cuenta, proveedor y configuración de plataforma.
+Forger es actualmente un release experimental. La creación de apps, adaptación de apps, configuración de proveedores, instalación desde catálogo, publicación, funciones sociales, almacenamiento, respaldos y administración remota están disponibles con distintos niveles de completitud según la app, cuenta, proveedor y configuración de plataforma.
 
-En la práctica, esto significa que algunas capacidades aparecen como beta, parciales o dependientes de configuración. Una app puede soportar Cloud, proveedores de IA o integraciones específicas sin que eso signifique que todas las apps tengan la misma cobertura. Forger muestra esas diferencias para que la persona entienda qué puede usar hoy y qué requiere preparación adicional.
+En la práctica, esto significa que algunas capacidades aparecen como experimentales, parciales o dependientes de configuración. Una app puede soportar Cloud, proveedores de IA o integraciones específicas sin que eso signifique que todas las apps tengan la misma cobertura. Forger muestra esas diferencias para que la persona entienda qué puede usar hoy y qué requiere preparación adicional.

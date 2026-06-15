@@ -3,7 +3,7 @@ title: "Creating Apps"
 description: "How an idea becomes a usable local Forger app with UI, data, services, and agent capabilities."
 section: "Creating Apps"
 order: 4
-status: "beta"
+status: "experimental"
 owner: "skeletons/vite-fastapi-sqlite"
 sources:
   - "AGENTS.md"

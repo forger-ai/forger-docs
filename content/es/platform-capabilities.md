@@ -3,7 +3,7 @@ title: "Capacidades de plataforma"
 description: "Memoria, archivos, secretos, automatizaciones, respaldos, sync, social, compartir, acceso remoto y diagnóstico."
 section: "Capacidades de plataforma"
 order: 8
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "desktop/AGENTS.md"

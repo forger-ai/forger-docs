@@ -3,7 +3,7 @@ title: "MCP y herramientas de app"
 description: "Cómo Forger separa tools MCP propias de app, tools oficiales, validación y features visibles."
 section: "MCP y herramientas de app"
 order: 7
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "desktop/src/main/prompt-builder/prompts/skills/global/forger-app-mcp-data-tools.md"

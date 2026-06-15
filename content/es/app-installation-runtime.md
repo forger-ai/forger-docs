@@ -3,7 +3,7 @@ title: "Instalación y funcionamiento de apps"
 description: "Cómo Forger ayuda a instalar, abrir, actualizar y recuperar apps locales."
 section: "Instalación y funcionamiento de apps"
 order: 5
-status: "beta"
+status: "experimental"
 owner: "desktop"
 sources:
   - "AGENTS.md"

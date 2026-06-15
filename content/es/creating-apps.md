@@ -3,7 +3,7 @@ title: "Crear apps"
 description: "Cómo una idea se convierte en una app local usable de Forger con UI, datos, servicios y capacidades de agente."
 section: "Crear apps"
 order: 4
-status: "beta"
+status: "experimental"
 owner: "skeletons/vite-fastapi-sqlite"
 sources:
   - "AGENTS.md"

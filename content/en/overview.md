@@ -1,9 +1,9 @@
 ---
 title: "Overview"
-description: "Forger as an open-core ecosystem for local apps, Desktop, Cloud, and current beta limits."
+description: "Forger as an open-core ecosystem for local apps, Desktop, Cloud, and current experimental limits."
 section: "Overview"
 order: 1
-status: "beta"
+status: "experimental"
 owner: "forger"
 sources:
   - "AGENTS.md"
@@ -37,8 +37,8 @@ Forger can create and adapt local apps, install curated apps, run app services, 
 
 Forger also supports publishing and sharing flows for apps that are ready to move beyond one person's machine. Shared apps remain real code with explicit metadata, declared capabilities, and installable versions.
 
-## What Is Still Beta
+## What Is Experimental
 
-Forger is currently beta software. App creation, app adaptation, provider setup, catalog installation, publishing, social features, storage, backups, and remote management are available at different levels of completeness depending on the app, account, provider, and platform configuration.
+Forger is currently an experimental release. App creation, app adaptation, provider setup, catalog installation, publishing, social features, storage, backups, and remote management are available at different levels of completeness depending on the app, account, provider, and platform configuration.
 
-In practice, this means some capabilities appear as beta, partial, or setup-dependent. One app can support Cloud, AI providers, or specific integrations without every app having the same coverage. Forger shows those differences so the person can understand what works today and what still needs setup.
+In practice, this means some capabilities appear as experimental, partial, or setup-dependent. One app can support Cloud, AI providers, or specific integrations without every app having the same coverage. Forger shows those differences so the person can understand what works today and what still needs setup.

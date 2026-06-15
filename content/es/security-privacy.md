@@ -3,7 +3,7 @@ title: "Seguridad y privacidad"
 description: "Cómo Forger protege los datos locales con aislamiento de apps, acceso explícito a archivos, memoria segura, límites de permisos, controles de acceso remoto y límites de proveedores de IA."
 section: "Seguridad y privacidad"
 order: 9
-status: "beta"
+status: "experimental"
 owner: "workspace"
 sources:
   - "AGENTS.md"
